@@ -11,10 +11,11 @@
 ## 📚 目录
 
 <!-- NOTES_INDEX_START -->
-> 共 **15** 篇 · 覆盖 2026-09-02 → 2026-09-22 · 最新在最上
+> 共 **16** 篇 · 覆盖 2026-09-02 → 2026-09-23 · 最新在最上
 
 | 日期 | 标题 | 标签 |
 | :--- | :--- | :--- |
+| `2026-09-23` | [打的是地板，管的是天花板](notes/2026-09-23-fighting-the-floor-governing-the-ceiling.md) | `#价格战` `#推理工程` `#治理` `#Agent安全` `#国产算力` |
 | `2026-09-22` | [「默认开启」是今天最贵的一个选项](notes/2026-09-22-defaults-are-the-expensive-option.md) | `#默认值` `#Agent安全` `#开源模型` `#决策模型` `#国产大模型` |
 | `2026-09-21` | [「开源」今天被拆成了三道闸门](notes/2026-09-21-openness-splits-into-three-gates.md) | `#开源许可` `#评测` `#Agent安全` `#国产大模型` |
 | `2026-09-20` | [两天复现一个模型，五天交付不了一个 App](notes/2026-09-20-capability-commoditized-engineering-priced.md) | `#LoRA` `#AgentHarness` `#Benchmark` `#推理工程` `#国产生态` |
