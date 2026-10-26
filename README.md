@@ -11,10 +11,11 @@
 ## 📚 目录
 
 <!-- NOTES_INDEX_START -->
-> 共 **36** 篇 · 覆盖 2026-09-02 → 2026-10-23 · 最新在最上
+> 共 **37** 篇 · 覆盖 2026-09-02 → 2026-10-26 · 最新在最上
 
 | 日期 | 标题 | 标签 |
 | :--- | :--- | :--- |
+| `2026-10-26` | [模型今天没变，变的是它外面那层配置——而没人给你变更日志](notes/2026-10-26-everything-changed-except-the-model.md) | `#Harness` `#默认配置` `#评测口径` `#开源权重` `#安全边界` |
 | `2026-10-23` | [找到已经免费，修补没有：PHP2Shell 卡住的那六道闸门](notes/2026-10-23-finding-is-free-patching-is-not.md) | `#AI安全` `#开源治理` `#漏洞响应` `#PHP2Shell` |
 | `2026-10-22` | [agent 拿到了机器和钱包，唯独没人给它签字](notes/2026-10-22-agent-has-a-machine-and-a-wallet.md) | `#Agent` `#供应链安全` `#ClaudeDuet` `#开源生态` |
 | `2026-10-21` | [上下文在被拆开卖，最后一份按人头计价](notes/2026-10-21-context-unbundled-attention-priced.md) | `#上下文工程` `#Agent` `#开源` `#工程陷阱` `#行业动向` |
