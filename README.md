@@ -11,10 +11,11 @@
 ## 📚 目录
 
 <!-- NOTES_INDEX_START -->
-> 共 **55** 篇 · 覆盖 2026-09-02 → 2026-11-16 · 最新在最上
+> 共 **56** 篇 · 覆盖 2026-09-02 → 2026-11-16 · 最新在最上
 
 | 日期 | 标题 | 标签 |
 | :--- | :--- | :--- |
+| `2026-11-16` | [开源拆成了两个承诺：能下载，和能复现](notes/2026-11-16-open-weights-verification-era.md) | `#开源` `#国产算力` `#可复现性` `#Agent` `#取证` |
 | `2026-11-16` | [进门看门牌，付钱用令牌](notes/2026-11-16-door-signs-and-payment-tokens.md) | `#Agent` `#AgenticCommerce` `#支付` `#DeepSeek` `#AnthropicIPO` |
 | `2026-11-13` | [通过评测，只证明了通过评测](notes/2026-11-13-passing-evals-proves-only-passing.md) | `#模型安全` `#权重完整性` `#Agent权限` `#模型发布` `#验证` |
 | `2026-11-12` | [快不是算得快，是少算几遍](notes/2026-11-12-faster-by-computing-fewer-times.md) | `#推理成本` `#模型发布` `#Agent` `#开源` `#工程实践` |
